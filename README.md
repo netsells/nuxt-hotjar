@@ -5,11 +5,11 @@
 You can set environment variable `NODE_ENV` to `production` for testing in dev mode.
 
 ## Setup
-- Add `nuxt-hotjar` dependency using yarn or npm to your project
-- Add `nuxt-hotjar` to `modules` section of `nuxt.config.js`
+- Add `@netsells/nuxt-hotjar` dependency using yarn or npm to your project
+- Add `@netsells/nuxt-hotjar` to `modules` section of `nuxt.config.js`
 ```js
   modules: [
-    ['nuxt-hotjar', { 
+    ['@netsells/nuxt-hotjar', { 
         id: 'hjsv', 
         sv: 'hjid'
     }],
@@ -28,11 +28,11 @@ You can set environment variable `NODE_ENV` to `production` for testing in dev m
 
 ## License
 
-MIT © [Neveena]()
+MIT © [Netsells](https://netsells.co.uk)
 
 
-[npm-image]: https://badge.fury.io/js/nuxt-hotjar.svg
-[npm-url]: https://npmjs.org/package/nuxt-hotjar
+[npm-image]: https://badge.fury.io/js/@netsells/nuxt-hotjar.svg
+[npm-url]: https://npmjs.org/package/@netsells/nuxt-hotjar
 [travis-image]: https://travis-ci.org/netsells/nuxt-hotjar.svg?branch=master
 [travis-url]: https://travis-ci.org/netsells/nuxt-hotjar
 [daviddm-image]: https://david-dm.org/netsells/nuxt-hotjar.svg?theme=shields.io
