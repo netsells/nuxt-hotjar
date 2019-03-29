@@ -1,4 +1,4 @@
-# Nuxt Hotjar [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] 
+# Nuxt Hotjar [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] 
 > Add nuxt hotjar to your nuxt.js application.
 
 **Note:** nuxt hotjar is not enabled in dev mode.
@@ -11,7 +11,7 @@ You can set environment variable `NODE_ENV` to `production` for testing in dev m
 modules: [
     ['@netsells/nuxt-hotjar', { 
         id: 'hjid', 
-        sv: 'hjsv'
+        sv: 'hjsv',
     }],
 ]
 ```
