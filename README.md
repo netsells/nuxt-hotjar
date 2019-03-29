@@ -1,4 +1,4 @@
-# Nuxt Hotjar [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# Nuxt Hotjar [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] 
 > Add nuxt hotjar to your nuxt.js application.
 
 **Note:** nuxt hotjar is not enabled in dev mode.
@@ -8,10 +8,10 @@ You can set environment variable `NODE_ENV` to `production` for testing in dev m
 - Add `@netsells/nuxt-hotjar` dependency using yarn or npm to your project
 - Add `@netsells/nuxt-hotjar` to `modules` section of `nuxt.config.js`
 ```js
-  modules: [
+modules: [
     ['@netsells/nuxt-hotjar', { 
-        id: 'hjsv', 
-        sv: 'hjid'
+        id: 'hjid', 
+        sv: 'hjsv'
     }],
 ]
 ```
@@ -31,7 +31,7 @@ You can set environment variable `NODE_ENV` to `production` for testing in dev m
 MIT © [Netsells](https://netsells.co.uk)
 
 
-[npm-image]: https://badge.fury.io/js/@netsells/nuxt-hotjar.svg
+[npm-image]: https://badge.fury.io/js/%40netsells%2Fnuxt-hotjar.svg
 [npm-url]: https://npmjs.org/package/@netsells/nuxt-hotjar
 [travis-image]: https://travis-ci.org/netsells/nuxt-hotjar.svg?branch=master
 [travis-url]: https://travis-ci.org/netsells/nuxt-hotjar
