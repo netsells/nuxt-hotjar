@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-hotjar",
+  "name": "@netsells/nuxt-hotjar",
   "version": "0.0.0",
   "description": "Nuxt hotjar plugin",
   "author": {

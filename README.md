@@ -33,9 +33,9 @@ MIT © [Neveena]()
 
 [npm-image]: https://badge.fury.io/js/nuxt-hotjar.svg
 [npm-url]: https://npmjs.org/package/nuxt-hotjar
-[travis-image]: https://travis-ci.org/neveena/nuxt-hotjar.svg?branch=master
-[travis-url]: https://travis-ci.org/neveena/nuxt-hotjar
-[daviddm-image]: https://david-dm.org/neveena/nuxt-hotjar.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/neveena/nuxt-hotjar
-[coveralls-image]: https://coveralls.io/repos/neveena/nuxt-hotjar/badge.svg
-[coveralls-url]: https://coveralls.io/r/neveena/nuxt-hotjar
+[travis-image]: https://travis-ci.org/netsells/nuxt-hotjar.svg?branch=master
+[travis-url]: https://travis-ci.org/netsells/nuxt-hotjar
+[daviddm-image]: https://david-dm.org/netsells/nuxt-hotjar.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/netsells/nuxt-hotjar
+[coveralls-image]: https://coveralls.io/repos/netsells/nuxt-hotjar/badge.svg
+[coveralls-url]: https://coveralls.io/r/netsells/nuxt-hotjar
