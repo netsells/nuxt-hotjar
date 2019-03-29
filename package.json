@@ -60,7 +60,7 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "neveena/nuxt-hotjar",
+  "repository": "netsells/nuxt-hotjar",
   "jest": {
     "testEnvironment": "node"
   },
