@@ -10,8 +10,8 @@ You can set environment variable `NODE_ENV` to `production` for testing in dev m
 ```js
   modules: [
     ['nuxt-hotjar', { 
-        id: 'hotjarID', 
-        sv: 'hotjarSv'
+        id: 'hjsv', 
+        sv: 'hjid'
     }],
 ]
 ```
@@ -20,6 +20,10 @@ You can set environment variable `NODE_ENV` to `production` for testing in dev m
 
 ### `id`
 - Required
+- Hotjar ID
+
+### `sv`
+- Hotjar Snippet Version
 
 
 ## License
